@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Playfair+Display&family=Roboto+Flex:opsz,wght@8..144,300&family=Roboto+Slab:wght@300&display=swap');
+
+h2{
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+.section-cont{
+    min-height: 100vh;
+}
